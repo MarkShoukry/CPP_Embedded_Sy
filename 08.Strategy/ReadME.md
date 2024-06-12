@@ -1,15 +1,16 @@
-# Title of the documentation
-(STL)Standerd Template Library :
-           /     |     \     
-          /      |      \    
-         /       |       \
-        /        |        \
-       /         |         \
-      /          |          \
-Templet      Templet        Iterator (Glue):
-Class:        Function:
-=Containers    =Algorithms      
--vector        -sort
--array         -looping
--set           -find
--map
+# (STL) Standerd Template Library:
+
+## 1) Templet Class: (Containers)
+- vector
+- array
+- set
+- map
+
+## 2) Templet Function: (Algorithms)
+- sort
+- looping
+- find
+
+
+## 3) Iterator:
+- Used to point at the memory addresses of STL containers

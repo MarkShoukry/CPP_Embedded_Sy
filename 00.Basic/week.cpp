@@ -1,3 +1,5 @@
+// program to defines an enumeration representing the days of the week and 
+//calculates the day of the week after ten days, starting from a given day. 
 #include <iostream>
 using namespace std;
 

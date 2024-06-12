@@ -1,3 +1,6 @@
+//program: to get max of numbers 
+
+
 #include <iostream>
 #include <array>
 using namespace std;

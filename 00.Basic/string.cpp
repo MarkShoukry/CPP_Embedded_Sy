@@ -1,3 +1,4 @@
+// how to add 2 string and print 
 #include <iostream>
 using namespace std;
 

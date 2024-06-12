@@ -17,15 +17,30 @@
 
 
 
-vector:
+(1) Sequence Countainer (linear arrangement) :
+1) vector:
 ____________________
 |___|____|____|_____----------->
 
-
-deque:
+2) deque:
          ______________________
 <--------|_____|____|_____|____-------->
 
-list:
+3) list:
           ____     _______    _____       _____
 <------- |____|<-->|_____|<-->|____|<--> |____|-------->
+
+1- forward         
+2- double
+-memory in heap
+-linked by pointers
+-logical list
+
+
+(2) Asspciative Countainer :
+1) map:
+-map: uniqe values
+-multimap: allows duplicates
+map<ke,value>
+
+2) set:

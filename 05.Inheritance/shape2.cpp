@@ -121,7 +121,7 @@ typedef std::vector<Shape*> ShapeListType;
 
 int main()
 {
-    Shape     *shape ;
+    // Shape     *shape ;
     Circle    circle(10.0);
     Rectangle rect(2,4);
     Square    squ(5) ;

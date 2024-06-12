@@ -26,11 +26,12 @@ int main()
     
     string arr[9]= {"one","two","three","four","five","six","seven","eight","nine" };
 
-    for (int16_t i =num1; i <= num2 ; i++)
+    for (int16_t i = num1 ; i <= num2 ; i++)
     {
         if (i <= 9)
-            {cout << arr[i-1] <<endl ;}
-        else if (i>9)
+            {  cout << arr[i-1] << endl ;  }
+       
+        else if (i > 9)
             {
                     if (i % 2 == 0)
                         {cout << "even";}

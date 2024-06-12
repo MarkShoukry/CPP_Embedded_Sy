@@ -1,3 +1,5 @@
+//calculating the total size of an image based on its width, height, and channel size.
+
 #include <iostream>
 
 int main ()
