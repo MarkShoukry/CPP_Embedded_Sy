@@ -1,0 +1,32 @@
+:stdout:
+Running main() from gtest_main.cc
+Note: Randomizing tests' orders with a seed of 65657 .
+[==========] Running 8 tests from 1 test case.
+[----------] Global test environment set-up.
+[----------] 8 tests from Calculator
+[ RUN      ] Calculator.sub_method_zero_by_negative
+[       OK ] Calculator.sub_method_zero_by_negative (0 ms)
+[ RUN      ] Calculator.sub_method_zero
+[       OK ] Calculator.sub_method_zero (0 ms)
+[ RUN      ] Calculator.sub_method_positiveNum
+[       OK ] Calculator.sub_method_positiveNum (0 ms)
+[ RUN      ] Calculator.sub_method_negativeNum
+[       OK ] Calculator.sub_method_negativeNum (0 ms)
+[ RUN      ] Calculator.div_method
+[       OK ] Calculator.div_method (0 ms)
+[ RUN      ] Calculator.add_method
+[       OK ] Calculator.add_method (0 ms)
+[ RUN      ] Calculator.sub_method_works_with_negative_negative
+[       OK ] Calculator.sub_method_works_with_negative_negative (0 ms)
+[ RUN      ] Calculator.mul_method
+[       OK ] Calculator.mul_method (0 ms)
+[----------] 8 tests from Calculator (0 ms total)
+
+[----------] Global test environment tear-down
+[==========] 8 tests from 1 test case ran. (0 ms total)
+[  PASSED  ] 8 tests.
+
+:stderr:
+
+:status:
+0
